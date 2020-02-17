@@ -38,6 +38,8 @@ Login into the account that you wish to snipe / block the name on
 Click the EditThisCookie Icon in the top right of google
 
 Look for "bearer_token" and copy and paste it into Bearer Key
+
+Bearer Keys will expire in roughly 2 hours, so sent up the bot within 2 hours of the release of the name
 ### What is Wait Time?
 The program runs a second before the actual release time and this is the amount of seconds it should wait before running.
 ## Report
