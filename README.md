@@ -1,4 +1,5 @@
 
+Doesnt really work that well rn, will fix later
 # Minecraft-NameSniper/Blocker
 
 This program has the ability to automatically snipe or block names that are being released. I encourage you to edit the code and make it better.
