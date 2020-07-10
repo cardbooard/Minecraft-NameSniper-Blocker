@@ -50,5 +50,5 @@ The program runs a second before the actual release time and this is the amount 
 ## Bugs/Glitches/Questions
 If you wanna report a bug or ask a question contact me on discord
 
-Cardboard#5655
+Cardboard#6339
 
