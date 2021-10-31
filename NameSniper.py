@@ -317,10 +317,10 @@ window.title('Minecraft NameSniper')
 
 # Define Icon
 r = requests.get('https://cdn.discordapp.com/attachments/673276807918649422/678376163244113920/ez.ico')
-with open('ez_vMY_icon.ico', 'wb') as f:
+with open('ez.ico', 'wb') as f:
     f.write(r.content)
-window.iconbitmap("ez_vMY_icon.ico")
-os.remove("ez_vMY_icon.ico")
+window.iconbitmap("ez.ico")
+os.remove("ez.ico")
 
 # Define size of 
 window.geometry("400x400")
